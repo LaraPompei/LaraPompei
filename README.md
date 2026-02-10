@@ -10,10 +10,8 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 ### Detalhes
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LaraPompei&theme=dark&hide_border=true)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LaraPompei&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraPompei&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraPompei&layout=compact&theme=dark&hide_border=true&hide=html,css&langs_count=8" />
+
 
 
 ### Projetos em destaque
