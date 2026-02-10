@@ -9,9 +9,4 @@ pesquisadora de mestrado em Modelagem Computacional na UFJF em transição para 
 ### Detalhes
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=LaraPompei%show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; 
-![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
