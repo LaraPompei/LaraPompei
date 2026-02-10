@@ -9,7 +9,7 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 
 ### Detalhes
 
-![Metrics](https://raw.githubusercontent.com/LaraPompei/LaraPompei/main/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 
 ### Projetos em destaque
