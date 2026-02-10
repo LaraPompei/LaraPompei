@@ -11,6 +11,19 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LaraPompei&theme=dark&hide_border=true)
 
+### Projetos em destaque
+
+- **[PrevisaoScoreCredito](https://github.com/LaraPompei/PrevisaoScoreCredito)**  
+  Modelo de classificação para score de crédito, com pipeline de dados, treino e avaliação.
+
+- **[RegressaoLogisticaDoencaCardiaca](https://github.com/LaraPompei/RegressaoLogisticaDoencaCardiaca)**  
+  Predição de doenças cardiovasculares com regressão logística, EDA e métricas de validação.
+
+- **[DashboardVendalogs](https://github.com/LaraPompei/DashboardVendalogs)**  
+  Dashboard para análise de vendas e indicadores, com foco em insights e tomada de decisão.
+
+- **[Circovirus](https://github.com/LaraPompei/Circovirus)**  
+  Modelagem e simulação para apoiar estratégias de vacinação em saúde animal.
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
