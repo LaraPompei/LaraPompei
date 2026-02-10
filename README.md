@@ -8,7 +8,9 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraPompei&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraPompei&show_icons=true&theme=dark&cache_seconds=86400&v=1)
+
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
