@@ -6,12 +6,6 @@
 ###### Sobre a Lara
 Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em transição para Ciência de Dados. Desenvolvo modelos e pipelines em Python para transformar literatura científica e dados experimentais em simulações, validação quantitativa e otimização de estratégias de vacinação em saúde animal. Também construo projetos de ML e análises aplicadas para portfólio.
 
-
-### Detalhes
-
-![Metrics](./github-metrics.svg)
-
-
 ### Projetos em destaque
 
 - **[PrevisaoScoreCredito](https://github.com/LaraPompei/PrevisaoScoreCredito)**  
