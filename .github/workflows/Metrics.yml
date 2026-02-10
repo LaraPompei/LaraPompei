@@ -1,8 +1,12 @@
 name: Metrics
+
 on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -12,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: LaraPompei
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories
           plugin_languages: yes
@@ -19,5 +24,4 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
           config_timezone: America/Sao_Paulo
