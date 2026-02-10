@@ -9,7 +9,8 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 
 ### Detalhes
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraPompei&show_icons=true&theme=dark&cache_seconds=86400&v=1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraPompei&show_icons=true&theme=dark&cache_seconds=86400&v=1)](https://github.com/LaraPompei)
+
 
 
 ### Main skills:
