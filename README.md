@@ -1,7 +1,5 @@
 ## Hi there! | Olá! 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lara;Master's+student+in+computational+modelling;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###### Sobre a Lara
 pesquisadora de mestrado em Modelagem Computacional na UFJF em transição para Ciência de Dados. Desenvolvo modelos e pipelines em Python para transformar literatura científica e dados experimentais em simulações, validação quantitativa e otimização de estratégias de vacinação em saúde animal. Também construo projetos de ML e análises aplicadas para portfólio.
