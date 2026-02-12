@@ -14,7 +14,7 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 - **[RegressaoLogisticaDoencaCardiaca](https://github.com/LaraPompei/RegressaoLogisticaDoencaCardiaca)**  
   Predição de doenças cardiovasculares com regressão logística, EDA e métricas de validação.
 
-- **[DashboardVendalogs](https://github.com/LaraPompei/DashboardVendalogs)**  
+- **[DashboardVendalogs]([https://github.com/LaraPompei/DashboardVendalogs](https://github.com/LaraPompei/DashboardVendaJogos))**  
   Dashboard para análise de vendas e indicadores, com foco em insights e tomada de decisão.
 
 - **[Circovirus](https://github.com/LaraPompei/Circovirus)**  
