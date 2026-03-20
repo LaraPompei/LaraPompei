@@ -11,7 +11,7 @@ Sou a Lara, pesquisadora de mestrado em Modelagem Computacional na UFJF em trans
 - **[PrevisaoScoreCredito](https://github.com/LaraPompei/PrevisaoScoreCredito)**  
   Modelo de classificação para score de crédito, com pipeline de dados, treino e avaliação.
 
-- **[CompetiçãoKaggleTitanic](https://github.com/LaraPompei/Titanic_Kaggle_Competition/)**
+- **[CompetiçãoKaggleTitanic](https://github.com/LaraPompei/Titanic_Kaggle_Competition/)**    
   Modelo de classificação para prever os passageiros sobreviventes do desastre do titanic.
 
 - **[RegressaoLogisticaDoencaCardiaca](https://github.com/LaraPompei/RegressaoLogisticaDoencaCardiaca)**  
